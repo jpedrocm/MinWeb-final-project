@@ -3376,7 +3376,6 @@ defendant
 tunnel
 fitness
 lap
-laptop
 grave
 toe
 container
